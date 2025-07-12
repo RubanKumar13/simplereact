@@ -28,6 +28,7 @@ export default function New() {
     <h1>{person.names}</h1>
     <h1>{person.age}</h1>
     <h1>{person.position}</h1>
+    <h1>Hello</h1>
     <Contact  {...person} />
    </>
 
